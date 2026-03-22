@@ -13,7 +13,7 @@
 - WPF
 
 # Objetivo-
-Projeto criado com o intuito de desenvolver o back-end e aprender sobre a conexão de banco de dados ao C# e formatação de textos
+Projeto criado com o intuito de desenvolver o back-end e aprender sobre a conexão de banco de dados ao C#, formatação de textos e criação de uma barra de pesquisa
 
 # Tela de Início
 ![Tela Inicial](Projeto%201/ImagensReadMe/TelaInicialProjeto.PNG)
