@@ -18,3 +18,11 @@ Projeto criado com o intuito de desenvolver o back-end e aprender sobre a conex�
 # Tela de Início
 ![Tela Inicial](Projeto%201/ImagensReadMe/TelaInicialProjeto.PNG)
 
+# Tela de Cadastro de Pacientes
+![Tela Inicial](Projeto%201/ImagensReadMe/TelaCadastroPacientes.PNG)
+
+# Tela de Cadstro de Médicos
+![Tela Inicial](Projeto%201/ImagensReadMe/TelaCadastroMedicos.PNG)
+
+# Tela de Agendamento de Consultas
+![Tela Inicial](Projeto%201/ImagensReadMe/TelaAgendamentoConsultas.PNG)
