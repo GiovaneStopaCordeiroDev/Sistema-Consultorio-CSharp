@@ -1,4 +1,4 @@
-# Sistema CRUD para Consultório em C#
+# Sistema CRUD para Consultório Médico em C#
 
 # Funções-
 - Cadastro de Pacientes
@@ -13,7 +13,7 @@
 - WPF
 
 # Objetivo-
-Projeto criado com o intuito de desenvolver o back-end e aprender sobre a conexão de banco de dados ao C#, formatação de textos
+Projeto criado com o intuito de desenvolver o back-end e aprender sobre a conexão de banco de dados ao C# e formatação de textos
 
 # Tela de Início
 ![Tela Inicial](Projeto%201/ImagensReadMe/TelaInicialProjeto.PNG)
